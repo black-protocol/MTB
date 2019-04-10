@@ -1,4 +1,4 @@
-## lzmfix.py - useful module of Lazyfix
+## MT.py - useful module of morocco tools
 # -*- coding: utf-8 -*-
 import os
 import sys
